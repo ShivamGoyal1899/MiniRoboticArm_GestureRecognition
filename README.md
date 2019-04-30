@@ -4,7 +4,7 @@ This project focuses on replicating your hand movements to the robotic arm throu
 
 ## Robotic Arm
 
-![Arm](https://github.com/MankaranSingh/MiniRoboticArm_GestureRecognition/blob/master/sample1.png)
+![Arm](https://github.com/MankaranSingh/MiniRoboticArm_GestureRecognition/blob/master/sample.png)
 
 ## Convolutional Neural Network
 
