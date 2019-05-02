@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 - py-serial
 - scikit-learn 
 
-2) Install any arduino IDE and upload the code present in ``Hardware`` folder.
+2) Install any arduino IDE and upload the code present in ``arduinoCode`` folder.
 
 3) Run ``trainDeepNeuralNet.ipynb`` to train the neural network.
 
