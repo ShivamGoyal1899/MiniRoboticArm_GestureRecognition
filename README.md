@@ -4,11 +4,11 @@ This project focuses on replicating your hand movements to the robotic arm throu
 
 ## Robotic Arm
 
-![Arm](https://github.com/MankaranSingh/MiniRoboticArm_GestureRecognition/blob/master/sample.png)
+![Arm](https://github.com/ShivamGoyal1899/MiniRoboticArm_GestureRecognition/blob/master/livePhoto.png)
 
 ## Convolutional Neural Network
 
-![Neural Net](https://github.com/MankaranSingh/MiniRoboticArm_GestureRecognition/blob/master/sample2.png)
+![Neural Net](https://github.com/ShivamGoyal1899/MiniRoboticArm_GestureRecognition/blob/master/CNN.png)
 
 ## Getting Strated 
 
@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 2) Install any arduino IDE and upload the code present in ``Hardware`` folder.
 
-3) Run ``train_deepNeuralNet.ipynb`` to train the neural network.
+3) Run ``trainDeepNeuralNet.ipynb`` to train the neural network.
 
 4) Finally run the ``runModel.ipynb`` to run the real time prediction.
 
@@ -34,7 +34,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Adafruit Motor Shield
 - Arduino Uno
-- Robotic arm
+- Robotic Arm
 
 ## Versioning
 
